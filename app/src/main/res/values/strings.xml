@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OAuthFinal</string>
+    <string name="miniorange_logo">miniorange logo</string>
+    <string name="enter_username_or_email">Enter Username or Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="oauth_login">OAuth Login</string>
+    <string name="welcome_to_xecurify">Welcome to Xecurify</string>
+    <string name="you_are_logged_in_as">You are logged in as</string>
+    <string name="logout">Logout</string>
+    <string name="user">user</string>
+</resources>
