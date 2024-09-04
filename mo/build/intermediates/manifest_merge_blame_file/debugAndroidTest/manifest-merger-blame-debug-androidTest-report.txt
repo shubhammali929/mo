@@ -1,0 +1,189 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mo.test" >
+4
+5    <uses-sdk
+5-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:5:15-41
+7        android:targetSdkVersion="24" />
+7-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:11:5-15:69
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:11:22-76
+11        android:functionalTest="false"
+11-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:13:22-53
+13        android:label="Tests for com.example.mo.test"
+13-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:15:22-67
+14        android:targetPackage="com.example.mo.test" />
+14-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:12:22-65
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[:mo] C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+16-->[:mo] C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-64
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->[:mo] C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-80
+17-->[:mo] C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-77
+18    <uses-permission android:name="sandroid.permission.WRITE_EXTERNAL_STORAGE" />
+18-->[:mo] C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-82
+18-->[:mo] C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-79
+19
+20    <queries>
+20-->[androidx.test:runner:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\beb80b5d121a02f94229a22afe60c19f\transformed\runner-1.6.1\AndroidManifest.xml:24:5-28:15
+21        <package android:name="androidx.test.orchestrator" />
+21-->[androidx.test:runner:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\beb80b5d121a02f94229a22afe60c19f\transformed\runner-1.6.1\AndroidManifest.xml:25:9-62
+21-->[androidx.test:runner:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\beb80b5d121a02f94229a22afe60c19f\transformed\runner-1.6.1\AndroidManifest.xml:25:18-59
+22        <package android:name="androidx.test.services" />
+22-->[androidx.test:runner:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\beb80b5d121a02f94229a22afe60c19f\transformed\runner-1.6.1\AndroidManifest.xml:26:9-58
+22-->[androidx.test:runner:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\beb80b5d121a02f94229a22afe60c19f\transformed\runner-1.6.1\AndroidManifest.xml:26:18-55
+23        <package android:name="com.google.android.apps.common.testing.services" />
+23-->[androidx.test:runner:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\beb80b5d121a02f94229a22afe60c19f\transformed\runner-1.6.1\AndroidManifest.xml:27:9-83
+23-->[androidx.test:runner:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\beb80b5d121a02f94229a22afe60c19f\transformed\runner-1.6.1\AndroidManifest.xml:27:18-80
+24    </queries>
+25
+26    <uses-permission android:name="android.permission.REORDER_TASKS" />
+26-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:24:5-72
+26-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:24:22-69
+27
+28    <permission
+28-->[androidx.core:core:1.13.0] C:\Users\miniOrange\.gradle\caches\transforms-4\ad5fa054bf1d821000e8810d8037a775\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+29        android:name="com.example.mo.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.13.0] C:\Users\miniOrange\.gradle\caches\transforms-4\ad5fa054bf1d821000e8810d8037a775\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.13.0] C:\Users\miniOrange\.gradle\caches\transforms-4\ad5fa054bf1d821000e8810d8037a775\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.example.mo.test.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.13.0] C:\Users\miniOrange\.gradle\caches\transforms-4\ad5fa054bf1d821000e8810d8037a775\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.13.0] C:\Users\miniOrange\.gradle\caches\transforms-4\ad5fa054bf1d821000e8810d8037a775\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:7:5-9:19
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.13.0] C:\Users\miniOrange\.gradle\caches\transforms-4\ad5fa054bf1d821000e8810d8037a775\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+36        android:debuggable="true"
+37        android:extractNativeLibs="false" >
+38        <uses-library android:name="android.test.runner" />
+38-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:8:9-60
+38-->C:\FinalTestApp\android-oauth-sdk\mo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest5643927811100056732.xml:8:23-57
+39
+40        <activity
+40-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:27:9-34:20
+41            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+41-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:28:13-99
+42            android:exported="true"
+42-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:29:13-36
+43            android:theme="@style/WhiteBackgroundTheme" >
+43-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:30:13-56
+44            <intent-filter android:priority="-100" >
+44-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:31:13-33:29
+44-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:31:28-51
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:32:17-77
+45-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:32:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity
+48-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:35:9-42:20
+49            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+49-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:36:13-95
+50            android:exported="true"
+50-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:37:13-36
+51            android:theme="@style/WhiteBackgroundTheme" >
+51-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:38:13-56
+52            <intent-filter android:priority="-100" >
+52-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:31:13-33:29
+52-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:31:28-51
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:32:17-77
+53-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:32:27-74
+54            </intent-filter>
+55        </activity>
+56        <activity
+56-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:43:9-50:20
+57            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+57-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:44:13-103
+58            android:exported="true"
+58-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:45:13-36
+59            android:theme="@style/WhiteBackgroundDialogTheme" >
+59-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:46:13-62
+60            <intent-filter android:priority="-100" >
+60-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:31:13-33:29
+60-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:31:28-51
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:32:17-77
+61-->[androidx.test:core:1.6.1] C:\Users\miniOrange\.gradle\caches\transforms-4\69bfbf2b21c173b9f2658705c760d4e1\transformed\core-1.6.1\AndroidManifest.xml:32:27-74
+62            </intent-filter>
+63        </activity>
+64
+65        <provider
+65-->[androidx.emoji2:emoji2:1.3.0] C:\Users\miniOrange\.gradle\caches\transforms-4\3c5a6032056d253bfc135e31afbc00de\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+66            android:name="androidx.startup.InitializationProvider"
+66-->[androidx.emoji2:emoji2:1.3.0] C:\Users\miniOrange\.gradle\caches\transforms-4\3c5a6032056d253bfc135e31afbc00de\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+67            android:authorities="com.example.mo.test.androidx-startup"
+67-->[androidx.emoji2:emoji2:1.3.0] C:\Users\miniOrange\.gradle\caches\transforms-4\3c5a6032056d253bfc135e31afbc00de\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+68            android:exported="false" >
+68-->[androidx.emoji2:emoji2:1.3.0] C:\Users\miniOrange\.gradle\caches\transforms-4\3c5a6032056d253bfc135e31afbc00de\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+69            <meta-data
+69-->[androidx.emoji2:emoji2:1.3.0] C:\Users\miniOrange\.gradle\caches\transforms-4\3c5a6032056d253bfc135e31afbc00de\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+70                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+70-->[androidx.emoji2:emoji2:1.3.0] C:\Users\miniOrange\.gradle\caches\transforms-4\3c5a6032056d253bfc135e31afbc00de\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+71                android:value="androidx.startup" />
+71-->[androidx.emoji2:emoji2:1.3.0] C:\Users\miniOrange\.gradle\caches\transforms-4\3c5a6032056d253bfc135e31afbc00de\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+72            <meta-data
+72-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\miniOrange\.gradle\caches\transforms-4\ff555b9421fbadefe8b76348fc64d670\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+73                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+73-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\miniOrange\.gradle\caches\transforms-4\ff555b9421fbadefe8b76348fc64d670\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+74                android:value="androidx.startup" />
+74-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\miniOrange\.gradle\caches\transforms-4\ff555b9421fbadefe8b76348fc64d670\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+75            <meta-data
+75-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+76                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+76-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+77                android:value="androidx.startup" />
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+78        </provider>
+79
+80        <receiver
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+81            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+82            android:directBootAware="false"
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+83            android:enabled="true"
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+84            android:exported="true"
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+85            android:permission="android.permission.DUMP" >
+85-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+87                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+90                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+91            </intent-filter>
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+93                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+94            </intent-filter>
+95            <intent-filter>
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+96                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\miniOrange\.gradle\caches\transforms-4\34103006dbea8b5b4af2a1e929f65be6\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+97            </intent-filter>
+98        </receiver>
+99    </application>
+100
+101</manifest>

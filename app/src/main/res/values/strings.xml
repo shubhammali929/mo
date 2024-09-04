@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OAuthFinal</string>
+    <string name="miniorange_logo">miniorange logo</string>
+    <string name="enter_username_or_email">Enter Username or Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="oauth_login">OAuth Login</string>
+    <string name="welcome_to_xecurify">Welcome to Xecurify</string>
+    <string name="you_are_logged_in_as">You are logged in as</string>
+    <string name="logout">Logout</string>
+    <string name="user">user</string>
+    <string name="grant_type_auth_code">Grant type Auth Code</string>
+    <string name="grant_type_pkce">Grant type PKCE</string>
+    <string name="grant_type_implicit">Grant type Implicit</string>
+    <string name="login_password_grant">login password Grant</string>
+    <string name="test_oauth_with_grant_type_auth_code">Test OAuth with grant_type_auth_code</string>
+    <string name="test_oauth_with_oauth_code_grant">Test OAuth with OAuth code grant</string>
+    <string name="test_oauth_with_pkce_grant">Test OAUth with PKCE grant</string>
+    <string name="test_oauth_with_implicit_grant">Test OAuth with Implicit grant</string>
+</resources>
